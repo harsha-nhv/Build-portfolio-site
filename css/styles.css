@@ -50,6 +50,9 @@ body h2{
   height: 20px;
   background-color: #233142;
 }
+images{
+  border-radius: 5px;
+}
 @media screen and (min-width:800px){
   .container{
     margin: 1%;
